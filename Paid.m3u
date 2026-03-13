@@ -581,6 +581,13 @@ https://padmaonline.duckdns.org:8088/T-SportHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nNB5kRKY/T-Sports-HD.png" group-title="Sports",T SPORTS FHD
 http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
+https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=b87e436e3bdc5e92cbf3bb18208bdd3f285c3972-65d82007aa4d3b78807f622b20686b7b-1773404210-1773400610
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1773408893&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=90337341bff69a7884edf396c3dbff7d
+
+
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/STAR%20SPORTS%201%20HD1744991778.png" group-title="Sports",STAR SPORTS 1 FHD
 http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
